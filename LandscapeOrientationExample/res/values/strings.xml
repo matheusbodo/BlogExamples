@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">This activity will always be in landscape orientation!</string>
+    <string name="app_name">LandscapeOrientationExample</string>
+
+</resources>
