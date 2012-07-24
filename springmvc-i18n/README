@@ -1,0 +1,3 @@
+To run this example, type "mvn jetty:run" on the root folder.
+
+Pra rodar esse exemplo, digite "mvn jetty:run"na raiz do projeto.
